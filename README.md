@@ -19,10 +19,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Gabriel-Guzman-Ruiz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Guzman-Ruiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Sita aleatoria
+## ✍️ Sita aleatoria
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Repositorio con mayor contribución
+## 🔝 Repositorio con mayor contribución
 ![](https://github-contributor-stats.vercel.app/api?username=Gabriel-Guzman-Ruiz&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=Gabriel-Guzman-Ruiz&icon=7&color=4)](https://visitcount.itsvg.in)
 ---
