@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![reversal](https://capsule-render.vercel.app/api?type=transparent&text=Hola%20Mundo!&animation=scaleIn&fontColor=FF2500&fontSize=70&fontAlign=50&fontAlignY=50&descAlignY=80&desc=Gabriel%20Guzmán&descSize=20)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Guzman-Ruiz&theme=aura_dark&locale=es&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
